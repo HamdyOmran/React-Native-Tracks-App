@@ -50,6 +50,7 @@ Originally I wanted to build an application that allowed users to track their di
 One of the main challenges I ran into was how to track user's location and keep updating route during movement. This lead me to spend a lot of time on a research, At the end i reached the soultion using react-native-location features.
 
 At the end of the day, the technologies implemented in this project are React, Context, Express, react-native-location, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the create-react-app boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a webpack.config.js file to more fully understand the build process.
+
 ---
 ## Project Screen Shots
 <img src="screenshots/Screenshot_2020-09-16-11-25-36-01_f73b71075b1de7323614b647fe394240.jpg" width="250" />
